@@ -1,0 +1,15 @@
+7 Looking-Back Approaches:
+
+Approach 1: Use different approaches to solve problems
+
+Approach 2: Add a constraint to the problems you solve
+
+Approach 3: Study the code of others
+
+Approach 4: Teach yourself by studying your own code
+
+Approach 5: Recycle your programming problems
+
+Approach 6: Apply what you’ve learned to previously-solved problems
+
+Approach 7: Get feedback from others

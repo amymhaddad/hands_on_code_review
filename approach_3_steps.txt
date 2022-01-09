@@ -1,0 +1,11 @@
+Approach 3: Study the code of others (5-step process)
+
+* Step 1: Solve a problem.
+
+* Step 2: Find a programmer who’s solved the same problem.
+
+* Step 3: Study the programmer’s solution.
+
+* Step 4: Re-solve the problem after some time has passed.
+
+* Step 5: Compare your new solution to the one you studied: identify your mistakes and make any necessary changes.
